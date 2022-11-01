@@ -1,0 +1,41 @@
+body {
+    background-color: lightblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
+img {
+    width: 20%;
+}
+p {
+    text-align: justify;
+}
+.center {
+    display: block;
+    margin: auto;
+}
+.foto {
+    background-color: black;
+}
+.cod p{
+    background-color: aqua;
+    border: 1px solid black;
+    text-align: center;
+    font-weight: bold;
+    color: blue;
+}
+.promo {
+    text-align: center;
+}
+.promo #garis {
+    text-decoration: line-through;
+}
+#tombol {
+    background-color: green;
+    color: white;
+}
+.btn {
+    text-align: center;
+}
